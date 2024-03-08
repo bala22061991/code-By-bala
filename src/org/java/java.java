@@ -1,4 +1,4 @@
-package org.demogit;
+package org.java;
 
 public class java {
 
