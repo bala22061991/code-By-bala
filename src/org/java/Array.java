@@ -8,8 +8,8 @@ public class Array {
 		
 		int a[]=new int[5];
 		
-		a[0]=1;
-		a[1]=2;
+		a[0]=15;
+		a[1]=25;
 		a[2]=30;
 		a[3]=40;
 		a[4]=50;
