@@ -28,7 +28,7 @@ public class Array {
 
 		}
 
-		String[] array = { "bala", "kumar", "bala" };
+		String[] array = { "bala", "kumar", "balakumaran" };
 
 		for (String string : array) {
 			System.out.println(string);
