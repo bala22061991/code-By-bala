@@ -4,8 +4,8 @@ import java.util.HashMap;
 
 public class HASHOCCURRENCE {
 	public static void main(String args[]) {
-
 		String str = "pneumonoultramicroscopicsilicovolcanoconiosis";
+		// String str = "Bala";
 //HashMap char as a key and occurrence as a value  
 		
 		HashMap<Character, Integer> charCount = new HashMap<>();
