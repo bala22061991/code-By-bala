@@ -25,7 +25,6 @@ public class Array {
 		for (int i = 0; i < b.length; i++) {
 			System.out.println(a[i]);
 			System.out.println(b[i]);
-
 		}
 
 		String[] array = { "bala", "kumar", "balakumaran" };
