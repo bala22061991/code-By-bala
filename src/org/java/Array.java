@@ -8,8 +8,8 @@ public class Array {
 		
 		int a[]=new int[5];
 		
-		a[0]=500;
-		a[1]=520;
+		a[0]=101;
+		a[1]=202;
 		a[2]=30;
 		a[3]=40;
 		a[4]=50;
@@ -34,7 +34,6 @@ public class Array {
 				System.out.println(string);
 				
 			}
-//				System.exit(0);
 			
 			List<String> asList = Arrays.asList(array);
 			System.out.println(asList);
