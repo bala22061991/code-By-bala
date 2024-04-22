@@ -11,7 +11,7 @@ public class Set {
 		linkedHashSet.add(20);
 		linkedHashSet.add(20);
 		linkedHashSet.add(30);
-		linkedHashSet.add(30);
+		linkedHashSet.add(50);
 		
 		System.out.println(linkedHashSet);
 		
